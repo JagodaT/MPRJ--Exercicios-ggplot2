@@ -3,7 +3,7 @@ Primeira Lista de Exercícios
 
 Para fazer esta lista, crie um notebook no Rstudio. Tente separar os exercícios em *chunks* e documentar os comentários/respostas pertinentes. Os exercícios foram retirados do livro [R for Data Scientists](https://r4ds.had.co.nz/), e este pode e deve ser consultado para auxiliar nas resoluções.
 
-Para os próximos exercícios, iremos utilizar um dataset do pacote ggplot2 chamado `mpg`. Primeiramente, você deverá carregar o `tidyverse` (lembre-se que o `tidyverse` é uma coletânea de pacotes, e um deles é o `ggplot2`):
+Para os próximos exercícios, iremos utilizar um dataset do pacote `ggplot2` chamado `mpg`. Primeiramente, você deverá carregar o `tidyverse` (lembre-se que o `tidyverse` é uma coletânea de pacotes, e um deles é o `ggplot2`):
 
     library(tidyverse)
 
