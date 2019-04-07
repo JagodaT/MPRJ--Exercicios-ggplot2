@@ -28,7 +28,7 @@ ggplot(data=df) +
   geom_point(mapping = aes(x = displ, y = hwy))
 ```
 
-![](Lista1_files/figure-markdown_github/unnamed-chunk-4-1.png)
+![](README_files/figure-markdown_github/unnamed-chunk-4-1.png)
 
 O ggplot oferece grande versatilidade para exibirmos nossos dados, para maiores informações sobre como fazer os variados tipos de gráficos, acesse [r4ds](https://r4ds.had.co.nz/data-visualisation.html) e [R Graph Gallery](https://www.r-graph-gallery.com/) . Além disso, este [cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf) pode ser útil.
 
