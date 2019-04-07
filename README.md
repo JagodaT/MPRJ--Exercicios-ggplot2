@@ -1,4 +1,4 @@
-Primeira Lista de Exercícios
+MPRJ - Exercícios ggplot2
 ================
 
 Para fazer esta lista, crie um notebook no Rstudio. Tente separar os exercícios em *chunks* e documentar os comentários/respostas pertinentes. Os exercícios foram retirados do livro [R for Data Scientists](https://r4ds.had.co.nz/), e este pode e deve ser consultado para auxiliar nas resoluções.
